@@ -1,3 +1,3 @@
 RewriteEngine on
 
-RewriteRule ^stpa-sec$ https://gitlab.kuleuven.be/u0152254/ontologies-coassurance-stpa-sec/-/blob/main/src/ontology/stpa-sec-o-edit.owl
+RewriteRule ^stpa-sec-o$ https://gitlab.kuleuven.be/u0152254/ontologies-coassurance-stpa-sec/-/blob/main/src/ontology/stpa-sec-o-edit.owl
